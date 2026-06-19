@@ -20,18 +20,15 @@ pip install .
 
 3. 빠른 시작 (Quick Start)
 
-패키지가 설치되면, 터미널에서 아래의 명령어를 입력하여 대시보드를 즉시 실행할 수 있습니다.
+패키지 설치가 완료되면, 터미널에 아래 명령어를 입력하여 대시보드를 즉시 실행할 수 있습니다.
 
-명령어로 실행하기:
+가장 확실한 실행 방법 (추천):
+
+python -m stock_dashboard.gui
+
+단축 명령어로 실행하기 (Scripts 환경변수 PATH 설정이 된 경우):
 
 run-dashboard
-
-Python 스크립트에서 모듈로 임포트하여 실행하기:
-
-from stock_dashboard.gui import main
-
-if __name__ == "__main__":
-    main()
 
 4. 주요 기능 설명
 
