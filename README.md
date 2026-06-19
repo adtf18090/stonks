@@ -58,4 +58,4 @@ python -m pycodestyle stock_dashboard tests
   - 작성자: 안단태
   - 학번: 202620871
   - 소속: 건국대학교 글로컬캠퍼스 컴퓨터공학과
-  - GitHub 저장소: https://github.com/adtf18090/university_assignment_1
+  - GitHub 저장소: https://github.com/adtf18090/stonks
